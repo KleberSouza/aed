@@ -1,0 +1,310 @@
+{
+  "source_base_path": "C:/dev/aed/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade1/algoritmos.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade1/algoritmos.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade1/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade1/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade1/recursao-mutua.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade1/recursao-mutua.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade1/recursao-simples.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade1/recursao-simples.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/unidade1/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade1/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/unidade1/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade2/algoritmos.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade2/algoritmos.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade2/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade2/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade2/recursao-mutua.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade2/recursao-mutua.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade2/recursao-simples.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade2/recursao-simples.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/unidade2/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade2/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/unidade2/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade3/bublesort.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade3/bublesort.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade3/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade3/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/unidade3/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade3/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/unidade3/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade4/algoritmos.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade4/algoritmos.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade4/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade4/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade4/recursao-mutua.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade4/recursao-mutua.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade4/recursao-simples.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade4/recursao-simples.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/unidade4/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade4/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/unidade4/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade5/algoritmos.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade5/algoritmos.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade5/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade5/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade5/recursao-mutua.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade5/recursao-mutua.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/unidade5/recursao-simples.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade5/recursao-simples.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/unidade5/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/unidade5/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/unidade5/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
