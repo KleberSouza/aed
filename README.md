@@ -6,25 +6,25 @@ Bem-vindo ao repositório da disciplina de Algoritmos e Estrutura de Dados! Este
 
 Este repositório está organizado nas seguintes seções:
 
-1. **Algoritmos Recursivos** - Implementações de algoritmos que utilizam recursividade.
-2. **Análise de Algoritmos** - Estudos sobre complexidade e eficiência de algoritmos.
-3. **Ordenação Interna** - Algoritmos para ordenação de dados em memória.
-4. **Tipos de Dados Lineares e Flexíveis** - Estruturas como listas, pilhas, filas e suas variações.
-5. **Pesquisa em Memória Principal** - Métodos para busca e recuperação de dados.
+1. [**Algoritmos Recursivos**](./u1-recursividade/README.md) - Implementações de algoritmos que utilizam recursividade.
+2. [**Fundamentos de Análise de Algoritmos**](./u2-analise/README.md) - Estudos sobre complexidade e eficiência de algoritmos.
+3. [**Ordenação Interna**](./u3-ordenacao/README.md) - Algoritmos para ordenação de dados em memória.
+4. [**Tipos de Dados Lineares e Flexíveis**](./u4-tads/README.md) - Estruturas como listas, pilhas, filas e suas variações.
+5. [**Pesquisa em Memória Principal**](./u5-pesquisa/README.md) - Métodos para busca e recuperação de dados.
 
 ## 🚀 Como Usar Este Repositório
 
 Cada pasta contém exemplos práticos em C# que demonstram os conceitos estudados em aula. Você pode baixar ou clonar este repositório para executar os exemplos localmente:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/klebersouza/aed.git
+cd aed
 ```
 
 Para executar qualquer exemplo, navegue até a pasta específica e utilize o .NET CLI:
 
 ```bash
-cd "1-AlgoritmosRecursivos/Exemplos/Fatorial"
+cd "u1-recursividade/exemplos/fatorial"
 dotnet run
 ```
 
@@ -76,7 +76,7 @@ dotnet run
 
 ## 📝 Notas de Aula
 
-Os slides e materiais complementares das aulas estão disponíveis em: [link para sua plataforma de ensino, se aplicável]
+Os slides e materiais complementares das aulas estão disponíveis no [Canvas](http://canvas.pucminas.br/).
 
 ## 🤝 Contribuições
 
