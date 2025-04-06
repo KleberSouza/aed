@@ -1,9 +1,0 @@
-- name: Unidade 1 - Algoritmos Recursivos
-  href: unidade1/index.md
-  items:
-    - name: 1.1 Algoritmos
-      href: unidade1/algoritmos.md
-    - name: 1.2 Recursão Simples
-      href: unidade1/recursao-simples.md
-    - name: 1.3 Recursão Mútua
-      href: unidade1/recursao-mutua.md
