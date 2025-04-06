@@ -1,0 +1,3 @@
+# Ignorar pastas de build de todos os projetos C#
+**/bin/
+**/obj/

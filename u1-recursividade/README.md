@@ -24,7 +24,7 @@ A seguir, alguns algoritmos recursivos clássicos implementados em C#:
 
 | ✅ Algoritmo | 📄 Descrição | 🔗 Link |
 |-------------|-------------|--------|
-| **Fatorial** | Calcula o fatorial de um número n (n!) | [Ver Código](../1-AlgoritmosRecursivos/Exemplos/Fatorial/) |
+| **Fatorial** | Calcula o fatorial de um número n (n!) | [Ver Código](./exemplos/fatorial/README.md) |
 | **Fibonacci** | Gera a sequência de Fibonacci até o n-ésimo termo | [Ver Código](../1-AlgoritmosRecursivos/Exemplos/Fibonacci/) |
 | **Torres de Hanói** | Resolve o problema das torres com n discos | [Ver Código](../1-AlgoritmosRecursivos/Exemplos/TorresHanoi/) |
 | **Busca Binária Recursiva** | Versão recursiva do algoritmo de busca binária | [Ver Código](../1-AlgoritmosRecursivos/Exemplos/BuscaBinariaRecursiva/) |

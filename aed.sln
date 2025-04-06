@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "u1-recursividade", "u1-recursividade", "{995F71E0-F149-E698-88D7-22056C7B4FAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exemplos", "exemplos", "{E2C75CBC-EBD5-220A-E545-B09DA2477FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fatorial", "u1-recursividade\exemplos\fatorial\fatorial.csproj", "{7EB8DE1D-EAEE-AA7A-85BF-B5AA0C27B90E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB8DE1D-EAEE-AA7A-85BF-B5AA0C27B90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB8DE1D-EAEE-AA7A-85BF-B5AA0C27B90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB8DE1D-EAEE-AA7A-85BF-B5AA0C27B90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB8DE1D-EAEE-AA7A-85BF-B5AA0C27B90E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2C75CBC-EBD5-220A-E545-B09DA2477FFC} = {995F71E0-F149-E698-88D7-22056C7B4FAC}
+		{7EB8DE1D-EAEE-AA7A-85BF-B5AA0C27B90E} = {E2C75CBC-EBD5-220A-E545-B09DA2477FFC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C862D31E-E1F2-4417-A4E3-E3A3C3367AF3}
+	EndGlobalSection
+EndGlobal
