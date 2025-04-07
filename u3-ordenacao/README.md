@@ -1,7 +1,5 @@
 # 🧮 Unidade 3: Ordenação Interna
 
-<img src="../.github/assets/sorting.png" alt="Algoritmos de Ordenação" width="200" align="right"/>
-
 ## 🔍 Introdução
 
 **Ordenação Interna** refere-se a algoritmos de ordenação onde todos os dados cabem na memória principal (RAM). Esses algoritmos são fundamentais em ciência da computação, pois muitos problemas exigem dados ordenados como etapa intermediária.
@@ -70,7 +68,6 @@ Nesta unidade, estudamos os principais algoritmos de ordenação, desde os mais 
 ## 📚 Recursos Adicionais
 
 - [Visualização de algoritmos de ordenação (Sorting Visualizer)](https://visualgo.net/en/sorting)
-- [Comparativo visual de algoritmos de ordenação (em vídeo)](https://www.youtube.com/watch?v=kPRA0W1kECg)
 - [Artigo sobre algoritmos de ordenação](https://www.geeksforgeeks.org/sorting-algorithms/)
 - [Big-O de algoritmos de ordenação](https://www.bigocheatsheet.com/)
 

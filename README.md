@@ -38,8 +38,7 @@ dotnet run
 ### 1. Algoritmos Recursivos
 - Fatorial
 - Fibonacci
-- Torres de Hanói
-- Busca binária recursiva
+- Pesquisa binária recursiva
 
 ### 2. Análise de Algoritmos
 - Medição de tempo de execução
@@ -50,23 +49,28 @@ dotnet run
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
+- Shell Sort
 - Merge Sort
 - Quick Sort
 - Heap Sort
+- Counting Sort
 
 ### 4. Tipos de Dados Lineares e Flexíveis
-- Array e ArrayList
+- Lista linear
+- Pilha Linear
+- Fila Linear
+- Fila Flexível
+- Pilha Flexível
 - Lista Encadeada Simples
-- Lista Duplamente Encadeada
-- Pilha (Stack)
-- Fila (Queue)
-- Deque (Double-Ended Queue)
+- Lista Encadeada Dupla
 
 ### 5. Pesquisa em Memória Principal
 - Busca Sequencial
 - Busca Binária
+- Árvore binaria
+- Árvore avl
 - Tabelas Hash
-- Árvores de Busca
+
 
 ## 🌐 Recursos Adicionais
 

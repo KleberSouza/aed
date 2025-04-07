@@ -1,7 +1,5 @@
 # 📘 Unidade 2: Fundamentos de Análise de Algoritmos
 
-<img src="../.github/assets/complexidade.png" alt="Análise de Algoritmos" width="200" align="right"/>
-
 ## 🧠 Introdução
 
 A **análise de algoritmos** é o estudo do desempenho de algoritmos com base em fatores como **tempo de execução** e **uso de memória**. Nessa unidade, o foco está na **análise de algoritmos iterativos**, isto é, algoritmos que usam laços de repetição (como `for` e `while`) para resolver problemas.
@@ -87,8 +85,6 @@ As **notações assintóticas** descrevem como a função de custo de um algorit
 
 - [Análise de algoritmos - GeeksforGeeks](https://www.geeksforgeeks.org/analysis-of-algorithms/)
 - [Notação Big-O visualizada (em inglês)](https://www.bigocheatsheet.com/)
-- [Vídeo: Complexidade de algoritmos explicada](https://www.youtube.com/watch?v=Mo4vesaut8g)
-- [Documentação Microsoft sobre complexidade](https://learn.microsoft.com/pt-br/dotnet/standard/collections/complexity)
 
 ---
 

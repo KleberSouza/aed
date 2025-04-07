@@ -25,9 +25,8 @@ A seguir, alguns algoritmos recursivos clássicos implementados em C#:
 | ✅ Algoritmo | 📄 Descrição | 🔗 Link |
 |-------------|-------------|--------|
 | **Fatorial** | Calcula o fatorial de um número n (n!) | [Ver Código](./exemplos/fatorial/README.md) |
-| **Fibonacci** | Gera a sequência de Fibonacci até o n-ésimo termo | [Ver Código](../1-AlgoritmosRecursivos/Exemplos/Fibonacci/) |
-| **Torres de Hanói** | Resolve o problema das torres com n discos | [Ver Código](../1-AlgoritmosRecursivos/Exemplos/TorresHanoi/) |
-| **Busca Binária Recursiva** | Versão recursiva do algoritmo de busca binária | [Ver Código](../1-AlgoritmosRecursivos/Exemplos/BuscaBinariaRecursiva/) |
+| **Fibonacci** | Gera a sequência de Fibonacci até o n-ésimo termo | [Ver Código](./exemplos/fibonacci/README.md) |
+| **Pesquisa Binária Recursiva** | Versão recursiva do algoritmo de busca binária | [Ver Código](./exemplos/pesquisa-binaria/README.md/) |
 
 ---
 
@@ -61,11 +60,10 @@ Coloque em prática os conceitos com os exercícios abaixo:
 
 | Algoritmo | ⏱️ Tempo | 🧠 Espaço | 💬 Observações |
 |-----------|---------|----------|----------------|
-| **Fatorial** | O(n) | O(n) | Uma chamada para cada número até 1 |
-| **Fibonacci (ingênuo)** | O(2^n) | O(n) | Exponencial — extremamente ineficiente |
-| **Fibonacci (memoizado)** | O(n) | O(n) | Cada valor é calculado apenas uma vez |
-| **Torres de Hanói** | O(2^n) | O(n) | Crescimento exponencial com o número de discos |
-| **Busca Binária** | O(log n) | O(log n) | Boa performance para grandes volumes de dados ordenados |
+| **Fatorial** | $O(n)$ | O(n) | Uma chamada para cada número até 1 |
+| **Fibonacci (ingênuo)** | $O(2^n)$ | $O(n)$ | Exponencial — extremamente ineficiente |
+| **Fibonacci (memoizado)** | $O(n)$ | $O(n)$ | Cada valor é calculado apenas uma vez |
+| **Busca Binária** | $O(\log n)$ | $O(\log n)$ | Boa performance para grandes volumes de dados ordenados |
 
 ---
 
@@ -73,8 +71,8 @@ Coloque em prática os conceitos com os exercícios abaixo:
 
 - 🎲 [Visualização Interativa da Recursão](https://visualgo.net/en/recursion)
 - 📘 [Documentação Oficial - Recursão em C#](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/concepts/recursion)
-- 📖 [Artigo: Entendendo Recursão - GeeksForGeeks](https://www.geeksforgeeks.org/recursion/)
-- 🎥 [Vídeo: Recursão Explicada com Animações](https://www.youtube.com/watch?v=KEEKn7Me-ms)
+- 📖 [Artigo: Introdução à Recursividade - GeeksForGeeks](https://www.geeksforgeeks.org/introduction-to-recursion-2)
+- 📖 [Artigo: Problemas de prática recursiva com soluções - GeeksForGeeks](https://www.geeksforgeeks.org/recursion-practice-problems-solutions/)
 
 ---
 

@@ -1,7 +1,5 @@
 # 🧭 Unidade 5: Pesquisa em Memória Principal
 
-<img src="../.github/assets/searching.png" alt="Pesquisa em Estruturas" width="220" align="right"/>
-
 ## 📘 Introdução
 
 A **pesquisa em memória principal** envolve a busca de elementos dentro de estruturas de dados que estão diretamente carregadas na RAM. A eficiência da pesquisa depende da organização dos dados, e nesta unidade exploramos as principais estruturas que otimizam essa tarefa.
@@ -69,7 +67,6 @@ Essas estruturas oferecem diferentes **tempos de busca**, inserção e remoção
 - [Visualização de Hash Table](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
 - [Documentação: Dicionário em C#](https://learn.microsoft.com/pt-br/dotnet/api/system.collections.generic.dictionary-2)
 - [GeeksforGeeks: Árvores e Hash Tables](https://www.geeksforgeeks.org/data-structures/)
-- [Vídeo: Pesquisa em Estruturas de Dados](https://www.youtube.com/watch?v=shs0KM3wKv8)
 
 ---
 
